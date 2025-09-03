@@ -2,6 +2,9 @@ body {
   background-image: url(assets/images/background-pattern-desktop.svg);
   background-repeat: no-repeat;
 }
+.content {
+  border: 1px solid red;
+}
 @media (max-width: 600px) {
   body {
     background-image: url(assets/images/background-pattern-mobile.svg);
